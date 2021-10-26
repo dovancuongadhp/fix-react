@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+a{
+  text-decoration: none;
+}
+p{
+  color: rgb(231, 0, 39);
+  padding-left: 10px;
+}
+.add__product{
+
+}
+form{
+  display: flex;
+  flex-direction: column;
+  width: 30rem;
+  margin: 0 auto;
+}
+form  div{
+  margin: 0.3rem;
+}
